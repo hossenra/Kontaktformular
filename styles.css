@@ -39,6 +39,7 @@ body {
 }
 #spanId {
   color: #9ac93c;
+  text-decoration: none;
 }
 #submit-btn {
   background-color: #9ac93c;
